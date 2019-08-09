@@ -1,0 +1,9 @@
+gpudb==7.0.3.0
+jupyter==1.0.0
+pandas==0.25.0
+pip-chill==0.1.8
+requests==2.22.0
+scikit-learn==0.21.3
+wget==3.2
+holidays==0.9.10
+category_encoders==2.0.0
